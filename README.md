@@ -2,7 +2,7 @@
 
 **Know what is in a folder. Change names with a reviewable plan and verified backups.**
 
-![CI](https://github.com/Borep1945/fileforge/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/corevail/fileforge/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-36cfdd?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-36cfdd?style=flat-square)
 
